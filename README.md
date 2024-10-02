@@ -1,5 +1,5 @@
 # PLM-Enrollment-System
-PLM Computerized Registration System
+Final project for CSC 0212 Object-Oriented Programming.
 
 This is a Java-based desktop application developed to streamline and automate the enrollment process at Pamantasan ng Lungsod ng Maynila (PLM). The system handles student registration, course enrollment, grade viewing, schedule management, and student information display efficiently.
 
@@ -12,7 +12,7 @@ This is a Java-based desktop application developed to streamline and automate th
 - **Schedule Viewing**: Students and faculty can view and manage course schedules.
 - **Student View**: Students can view and manage their personal information.
 
-## Technologies Used
+## Tools Used
 
 - **Java**: Core programming language used to build the application.
 - **NetBeans IDE**: Integrated development environment used for project development.
